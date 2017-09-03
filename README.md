@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+*Dicas e regras para o sucesso de nosso grupo de Troca de Componentes Discretos* :
 
-You can use the [editor on GitHub](https://github.com/ArduinoMinas/TrocaDeComponentes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Página Oficial do Grupo: http://ArduinoMinas.com.br/TrocaDeComponentes
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+📡 O Foco é claro troca de componentes discretos para eletrônica.
 
-### Markdown
+📡 Publique sua demanda e aguarde, não precisa chamar a atenção do grupo com boa tarde, bom dia ou outro comprimento, apenes deixe sua demanda.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+📡 Publique sempre sua demanda com detalhes em especial com códigos de equivalentes.
 
-```markdown
-Syntax highlighted code block
+📡 Não faça publicações repetidas no mesmo mês, se for urgente, faça referências a sua solicitação por semana.
 
-# Header 1
-## Header 2
-### Header 3
+📡 Não faça publicações consecutivas.
 
-- Bulleted
-- List
+📡 O grupo e nenhum de seus administradores ou moderadores é responsável pelas trocas e negocios realizados através dele.
 
-1. Numbered
-2. List
+📡 Não importa se você é hobbista, estudante, tecnico, engenheiro, autonomo, funcionário, empresário, aqui vale sua participação compartilhamento de conhecimento e consideração com os colegas, em especial quem está começando.
 
-**Bold** and _Italic_ and `Code` text
+📡 O importante é mantermos o foco no nome do grupo como sendo o tópico chave e cuidar para valorização das regras.
 
-[Link](url) and ![Image](src)
-```
+📡 Apesar do Grupo ser no campo da Eletrônica, não é um grupo de troca de circuitos e suporte em eletrônica em geral, apenas troca de componentes discretos.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+📡 Evitem:
+  🗜 *Política e religião nem pensar* .
+  🗜 Repetir constantemente propagandas, principalmente autopropaganda, propaganda fora do contexto e repetidas acarretará remoção. 
+  🗜 Desrespeito e tratamento excessivamente expansivo
+  🗜 Bom dia, Boa tarde, Boa noite a não ser junto de tópicos e contexto. Procure puxar assunto com o tópico do grupo.
+  🗜 Divulgação fora do contexto do grupo.  
 
-### Jekyll Themes
+📡 Os mais mais colaborativos se tornam admin.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArduinoMinas/TrocaDeComponentes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+📡 Sejam todos bem vindos, o grupo é nosso, então todos cuidem para o sucesso.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Use este link para convidar outros para nosso grupo do WhatsApp:  https://chat.whatsapp.com/3aj0M8sXJLY437gxlFbmFA
